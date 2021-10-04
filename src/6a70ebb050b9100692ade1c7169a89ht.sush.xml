@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SUSH" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <HEAD>
+    <NAME>6A70EBB050B9100692ADE1C7169A89</NAME>
+    <TYPE>HT</TYPE>
+    <DISPLAY_NAME>R3TR IWSV ZSALESO_LIST_SRV                   0001</DISPLAY_NAME>
+    <SRCSYSTEM>A4H</SRCSYSTEM>
+    <AUTHOR>GVALER</AUTHOR>
+    <DEVCLASS>ZODATA</DEVCLASS>
+   </HEAD>
+  </asx:values>
+ </asx:abap>
+</abapGit>
